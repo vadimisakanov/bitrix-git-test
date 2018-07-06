@@ -1,0 +1,2 @@
+<?
+$MESS['INTERVOLGA_MIGRATO.USER_FIELD'] = 'UF-поля';

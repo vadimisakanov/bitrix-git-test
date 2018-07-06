@@ -1,0 +1,455 @@
+2018-07-05 17:07:39 -  - exec CUpdateClient::GetUpdatesList
+2018-07-05 17:07:39 -  - exec CUpdateClient::CollectRequestData
+2018-07-05 17:07:39 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=18.0.0&VERSION=18.0.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix-git-test.vs04.usebraind.ru&CHHB=bitrix-git-test.vs04.usebraind.ru&CSAB=127.0.0.1&SUID=eabec828621a4fed615ef96b536ffd41&CANGZIP=Y&CLIENT_PHPVER=7.0.28&stable=Y&NGINX=Y&rerere=Y&bitm_main=18.0.0&bitm_rest=18.0.0&bitm_messageservice=18.0.0&bitm_socialservices=17.5.4&bitm_catalog=17.6.2&bitm_scale=17.5.0&bitm_currency=17.5.4&bitm_mobileapp=17.5.1&bitm_blog=17.6.1&bitm_landing=18.3.0&bitm_forum=17.5.5&bitm_pull=17.5.4&bitm_abtest=17.5.0&bitm_ui=17.6.0&bitm_fileman=17.5.12&bitm_translate=16.0.0&bitm_iblock=17.6.3&bitm_bitrixcloud=17.5.0&bitm_photogallery=17.0.2&bitm_perfmon=17.0.1&bitm_highloadblock=17.5.0&bitm_storeassist=16.0.1&bitm_sale=17.8.19&bitm_compression=16.0.0&bitm_eshopapp=16.5.0&bitm_form=17.0.1&bitm_sender=18.0.0&bitm_vote=17.5.1&bitm_seo=18.0.0&bitm_subscribe=17.5.0&bitm_clouds=17.0.2&bitm_b24connector=17.5.0&bitm_conversion=17.5.0&bitm_migrato=0.8.8&bitm_search=17.5.1&bitm_security=17.0.2&bitm_report=18.0.4&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-N
+2018-07-05 17:07:39 -  - exec CUpdateClient::GetHTTPPage
+2018-07-05 17:07:40 -  - TIME GetUpdatesList(request) 0.187 sec
+2018-07-05 17:07:40 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:08:32 -  - exec CUpdateClient::GetUpdatesList
+2018-07-05 17:08:32 -  - exec CUpdateClient::CollectRequestData
+2018-07-05 17:08:32 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=18.0.0&VERSION=18.0.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix-git-test.vs04.usebraind.ru&CHHB=bitrix-git-test.vs04.usebraind.ru&CSAB=127.0.0.1&SUID=eabec828621a4fed615ef96b536ffd41&CANGZIP=Y&CLIENT_PHPVER=7.0.28&stable=Y&NGINX=Y&rerere=Y&bitm_main=18.0.0&bitm_rest=18.0.0&bitm_messageservice=18.0.0&bitm_socialservices=17.5.4&bitm_catalog=17.6.2&bitm_scale=17.5.0&bitm_currency=17.5.4&bitm_mobileapp=17.5.1&bitm_blog=17.6.1&bitm_landing=18.3.0&bitm_forum=17.5.5&bitm_pull=17.5.4&bitm_abtest=17.5.0&bitm_ui=17.6.0&bitm_fileman=17.5.12&bitm_translate=16.0.0&bitm_iblock=17.6.3&bitm_bitrixcloud=17.5.0&bitm_photogallery=17.0.2&bitm_perfmon=17.0.1&bitm_highloadblock=17.5.0&bitm_storeassist=16.0.1&bitm_sale=17.8.19&bitm_compression=16.0.0&bitm_eshopapp=16.5.0&bitm_form=17.0.1&bitm_sender=18.0.0&bitm_vote=17.5.1&bitm_seo=18.0.0&bitm_subscribe=17.5.0&bitm_clouds=17.0.2&bitm_b24connector=17.5.0&bitm_conversion=17.5.0&bitm_migrato=0.8.8&bitm_search=17.5.1&bitm_security=17.0.2&bitm_report=18.0.4&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-N
+2018-07-05 17:08:32 -  - exec CUpdateClient::GetHTTPPage
+2018-07-05 17:08:32 -  - TIME GetUpdatesList(request) 0.159 sec
+2018-07-05 17:08:32 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:10:22 -  - exec CUpdateClient::GetUpdatesList
+2018-07-05 17:10:22 -  - exec CUpdateClient::CollectRequestData
+2018-07-05 17:10:22 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=18.0.0&VERSION=18.0.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix-git-test.vs04.usebraind.ru&CHHB=bitrix-git-test.vs04.usebraind.ru&CSAB=127.0.0.1&SUID=eabec828621a4fed615ef96b536ffd41&CANGZIP=Y&CLIENT_PHPVER=7.0.28&stable=Y&NGINX=Y&rerere=Y&bitm_main=18.0.0&bitm_rest=18.0.0&bitm_messageservice=18.0.0&bitm_socialservices=17.5.4&bitm_catalog=17.6.2&bitm_scale=17.5.0&bitm_currency=17.5.4&bitm_mobileapp=17.5.1&bitm_blog=17.6.1&bitm_landing=18.3.0&bitm_forum=17.5.5&bitm_pull=17.5.4&bitm_abtest=17.5.0&bitm_ui=17.6.0&bitm_fileman=17.5.12&bitm_translate=16.0.0&bitm_iblock=17.6.3&bitm_bitrixcloud=17.5.0&bitm_photogallery=17.0.2&bitm_perfmon=17.0.1&bitm_highloadblock=17.5.0&bitm_storeassist=16.0.1&bitm_sale=17.8.19&bitm_compression=16.0.0&bitm_eshopapp=16.5.0&bitm_form=17.0.1&bitm_sender=18.0.0&bitm_vote=17.5.1&bitm_seo=18.0.0&bitm_subscribe=17.5.0&bitm_clouds=17.0.2&bitm_b24connector=17.5.0&bitm_conversion=17.5.0&bitm_migrato=0.8.8&bitm_search=17.5.1&bitm_security=17.0.2&bitm_report=18.0.4&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-N
+2018-07-05 17:10:22 -  - exec CUpdateClient::GetHTTPPage
+2018-07-05 17:10:22 -  - TIME GetUpdatesList(request) 0.327 sec
+2018-07-05 17:10:22 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:14:44 -  - exec CUpdateClient::GetUpdatesList
+2018-07-05 17:14:44 -  - exec CUpdateClient::CollectRequestData
+2018-07-05 17:14:44 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=18.0.0&VERSION=18.0.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix-git-test.vs04.usebraind.ru&CHHB=bitrix-git-test.vs04.usebraind.ru&CSAB=127.0.0.1&SUID=eabec828621a4fed615ef96b536ffd41&CANGZIP=Y&CLIENT_PHPVER=7.0.28&stable=Y&NGINX=Y&rerere=Y&bitm_main=18.0.0&bitm_rest=18.0.0&bitm_messageservice=18.0.0&bitm_socialservices=17.5.4&bitm_catalog=17.6.2&bitm_scale=17.5.0&bitm_currency=17.5.4&bitm_mobileapp=17.5.1&bitm_blog=17.6.1&bitm_landing=18.3.0&bitm_forum=17.5.5&bitm_pull=17.5.4&bitm_abtest=17.5.0&bitm_ui=17.6.0&bitm_fileman=17.5.12&bitm_translate=16.0.0&bitm_iblock=17.6.3&bitm_bitrixcloud=17.5.0&bitm_photogallery=17.0.2&bitm_perfmon=17.0.1&bitm_highloadblock=17.5.0&bitm_storeassist=16.0.1&bitm_sale=17.8.19&bitm_compression=16.0.0&bitm_eshopapp=16.5.0&bitm_form=17.0.1&bitm_sender=18.0.0&bitm_vote=17.5.1&bitm_seo=18.0.0&bitm_subscribe=17.5.0&bitm_clouds=17.0.2&bitm_b24connector=17.5.0&bitm_conversion=17.5.0&bitm_migrato=0.8.8&bitm_search=17.5.1&bitm_security=17.0.2&bitm_report=18.0.4&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-N
+2018-07-05 17:14:44 -  - exec CUpdateClient::GetHTTPPage
+2018-07-05 17:14:44 -  - TIME GetUpdatesList(request) 0.184 sec
+2018-07-05 17:14:44 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:14:50 -  - exec CUpdateClient::GetUpdatesList
+2018-07-05 17:14:50 -  - exec CUpdateClient::CollectRequestData
+2018-07-05 17:14:50 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=18.0.0&VERSION=18.0.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix-git-test.vs04.usebraind.ru&CHHB=bitrix-git-test.vs04.usebraind.ru&CSAB=127.0.0.1&SUID=eabec828621a4fed615ef96b536ffd41&CANGZIP=Y&CLIENT_PHPVER=7.0.28&stable=Y&NGINX=Y&rerere=Y&bitm_main=18.0.0&bitm_rest=18.0.0&bitm_messageservice=18.0.0&bitm_socialservices=17.5.4&bitm_catalog=17.6.2&bitm_scale=17.5.0&bitm_currency=17.5.4&bitm_mobileapp=17.5.1&bitm_blog=17.6.1&bitm_landing=18.3.0&bitm_forum=17.5.5&bitm_pull=17.5.4&bitm_abtest=17.5.0&bitm_ui=17.6.0&bitm_fileman=17.5.12&bitm_translate=16.0.0&bitm_iblock=17.6.3&bitm_bitrixcloud=17.5.0&bitm_photogallery=17.0.2&bitm_perfmon=17.0.1&bitm_highloadblock=17.5.0&bitm_storeassist=16.0.1&bitm_sale=17.8.19&bitm_compression=16.0.0&bitm_eshopapp=16.5.0&bitm_form=17.0.1&bitm_sender=18.0.0&bitm_vote=17.5.1&bitm_seo=18.0.0&bitm_subscribe=17.5.0&bitm_clouds=17.0.2&bitm_b24connector=17.5.0&bitm_conversion=17.5.0&bitm_migrato=0.8.8&bitm_search=17.5.1&bitm_security=17.0.2&bitm_report=18.0.4&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-N
+2018-07-05 17:14:50 -  - exec CUpdateClient::GetHTTPPage
+2018-07-05 17:14:51 -  - TIME GetUpdatesList(request) 0.195 sec
+2018-07-05 17:14:51 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:14:58 -  - exec CUpdateClient::GetUpdatesList
+2018-07-05 17:14:58 -  - exec CUpdateClient::CollectRequestData
+2018-07-05 17:14:58 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=18.0.0&VERSION=18.0.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix-git-test.vs04.usebraind.ru&CHHB=bitrix-git-test.vs04.usebraind.ru&CSAB=127.0.0.1&SUID=eabec828621a4fed615ef96b536ffd41&CANGZIP=Y&CLIENT_PHPVER=7.0.28&stable=Y&NGINX=Y&rerere=Y&bitm_main=18.0.0&bitm_rest=18.0.0&bitm_messageservice=18.0.0&bitm_socialservices=17.5.4&bitm_catalog=17.6.2&bitm_scale=17.5.0&bitm_currency=17.5.4&bitm_mobileapp=17.5.1&bitm_blog=17.6.1&bitm_landing=18.3.0&bitm_forum=17.5.5&bitm_pull=17.5.4&bitm_abtest=17.5.0&bitm_ui=17.6.0&bitm_fileman=17.5.12&bitm_translate=16.0.0&bitm_iblock=17.6.3&bitm_bitrixcloud=17.5.0&bitm_photogallery=17.0.2&bitm_perfmon=17.0.1&bitm_highloadblock=17.5.0&bitm_storeassist=16.0.1&bitm_sale=17.8.19&bitm_compression=16.0.0&bitm_eshopapp=16.5.0&bitm_form=17.0.1&bitm_sender=18.0.0&bitm_vote=17.5.1&bitm_seo=18.0.0&bitm_subscribe=17.5.0&bitm_clouds=17.0.2&bitm_b24connector=17.5.0&bitm_conversion=17.5.0&bitm_migrato=0.8.8&bitm_search=17.5.1&bitm_security=17.0.2&bitm_report=18.0.4&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2018-07-05 17:14:58 -  - exec CUpdateClient::GetHTTPPage
+2018-07-05 17:14:58 -  - TIME GetUpdatesList(request) 0.187 sec
+2018-07-05 17:14:58 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:02 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:02 -  - exec CUpdateClient::CollectRequestData
+2018-07-05 17:15:02 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=18.0.0&VERSION=18.0.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix-git-test.vs04.usebraind.ru&CHHB=bitrix-git-test.vs04.usebraind.ru&CSAB=127.0.0.1&SUID=eabec828621a4fed615ef96b536ffd41&CANGZIP=Y&CLIENT_PHPVER=7.0.28&stable=Y&NGINX=Y&rerere=Y&bitm_main=18.0.0&bitm_rest=18.0.0&bitm_messageservice=18.0.0&bitm_socialservices=17.5.4&bitm_catalog=17.6.2&bitm_scale=17.5.0&bitm_currency=17.5.4&bitm_mobileapp=17.5.1&bitm_blog=17.6.1&bitm_landing=18.3.0&bitm_forum=17.5.5&bitm_pull=17.5.4&bitm_abtest=17.5.0&bitm_ui=17.6.0&bitm_fileman=17.5.12&bitm_translate=16.0.0&bitm_iblock=17.6.3&bitm_bitrixcloud=17.5.0&bitm_photogallery=17.0.2&bitm_perfmon=17.0.1&bitm_highloadblock=17.5.0&bitm_storeassist=16.0.1&bitm_sale=17.8.19&bitm_compression=16.0.0&bitm_eshopapp=16.5.0&bitm_form=17.0.1&bitm_sender=18.0.0&bitm_vote=17.5.1&bitm_seo=18.0.0&bitm_subscribe=17.5.0&bitm_clouds=17.0.2&bitm_b24connector=17.5.0&bitm_conversion=17.5.0&bitm_migrato=0.8.8&bitm_search=17.5.1&bitm_security=17.0.2&bitm_report=18.0.4&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2018-07-05 17:15:02 -  - exec CUpdateClient::GetHTTPPage
+2018-07-05 17:15:02 -  - TIME LoadModulesUpdates(request) 0.19 sec
+2018-07-05 17:15:02 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:02 - S - STEP
+2018-07-05 17:15:02 - LMU01 - LoadModulesUpdates-Step
+2018-07-05 17:15:03 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:03 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:03 -  - loadFile
+2018-07-05 17:15:03 - U - RETURN
+2018-07-05 17:15:03 -  - exec CUpdateClient::UnGzipArchive
+2018-07-05 17:15:03 -  - TIME UnGzipArchive 0.003 sec
+2018-07-05 17:15:03 -  - TIME UpdateStepModules 0.003 sec
+2018-07-05 17:15:03 - UPD_SUCCESS - Updated: main (18.0.1)<br><li>Исправление ошибки двойного декодирования POST-запроса на установках с однобайтовыми кодировками. 
+2018-07-05 17:15:03 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:03 -  - exec CUpdateClient::CollectRequestData
+2018-07-05 17:15:03 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=18.0.0&VERSION=18.0.1&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix-git-test.vs04.usebraind.ru&CHHB=bitrix-git-test.vs04.usebraind.ru&CSAB=127.0.0.1&SUID=eabec828621a4fed615ef96b536ffd41&CANGZIP=Y&CLIENT_PHPVER=7.0.28&stable=Y&NGINX=Y&rerere=Y&bitm_main=18.0.1&bitm_rest=18.0.0&bitm_messageservice=18.0.0&bitm_socialservices=17.5.4&bitm_catalog=17.6.2&bitm_scale=17.5.0&bitm_currency=17.5.4&bitm_mobileapp=17.5.1&bitm_blog=17.6.1&bitm_landing=18.3.0&bitm_forum=17.5.5&bitm_pull=17.5.4&bitm_abtest=17.5.0&bitm_ui=17.6.0&bitm_fileman=17.5.12&bitm_translate=16.0.0&bitm_iblock=17.6.3&bitm_bitrixcloud=17.5.0&bitm_photogallery=17.0.2&bitm_perfmon=17.0.1&bitm_highloadblock=17.5.0&bitm_storeassist=16.0.1&bitm_sale=17.8.19&bitm_compression=16.0.0&bitm_eshopapp=16.5.0&bitm_form=17.0.1&bitm_sender=18.0.0&bitm_vote=17.5.1&bitm_seo=18.0.0&bitm_subscribe=17.5.0&bitm_clouds=17.0.2&bitm_b24connector=17.5.0&bitm_conversion=17.5.0&bitm_migrato=0.8.8&bitm_search=17.5.1&bitm_security=17.0.2&bitm_report=18.0.4&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2018-07-05 17:15:03 -  - exec CUpdateClient::GetHTTPPage
+2018-07-05 17:15:03 -  - TIME LoadModulesUpdates(request) 0.196 sec
+2018-07-05 17:15:03 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:03 - S - STEP
+2018-07-05 17:15:03 - LMU01 - LoadModulesUpdates-Step
+2018-07-05 17:15:03 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:03 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:03 -  - loadFile
+2018-07-05 17:15:04 - U - RETURN
+2018-07-05 17:15:04 -  - exec CUpdateClient::UnGzipArchive
+2018-07-05 17:15:04 -  - TIME UnGzipArchive 0.008 sec
+2018-07-05 17:15:04 - CSURUS1 - Run updater '/bitrix/updates/update_m1530800104/fileman/updater18.0.0.php'
+2018-07-05 17:15:04 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1530800104/fileman/updater18.0.0.php': CopyFiles(install/components, components)
+2018-07-05 17:15:04 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1530800104/fileman/updater18.0.0.php': CopyFiles(install/js, js)
+2018-07-05 17:15:04 -  - TIME UpdateStepModules 0.021 sec
+2018-07-05 17:15:04 - UPD_SUCCESS - Updated: fileman (18.0.0)<br><li>В блочном редакторе исправлена ошибка отображения компонентов. 
+2018-07-05 17:15:04 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:04 -  - exec CUpdateClient::CollectRequestData
+2018-07-05 17:15:04 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=18.0.0&VERSION=18.0.1&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix-git-test.vs04.usebraind.ru&CHHB=bitrix-git-test.vs04.usebraind.ru&CSAB=127.0.0.1&SUID=eabec828621a4fed615ef96b536ffd41&CANGZIP=Y&CLIENT_PHPVER=7.0.28&stable=Y&NGINX=Y&rerere=Y&bitm_main=18.0.1&bitm_rest=18.0.0&bitm_messageservice=18.0.0&bitm_socialservices=17.5.4&bitm_catalog=17.6.2&bitm_scale=17.5.0&bitm_currency=17.5.4&bitm_mobileapp=17.5.1&bitm_blog=17.6.1&bitm_landing=18.3.0&bitm_forum=17.5.5&bitm_pull=17.5.4&bitm_abtest=17.5.0&bitm_ui=17.6.0&bitm_fileman=18.0.0&bitm_translate=16.0.0&bitm_iblock=17.6.3&bitm_bitrixcloud=17.5.0&bitm_photogallery=17.0.2&bitm_perfmon=17.0.1&bitm_highloadblock=17.5.0&bitm_storeassist=16.0.1&bitm_sale=17.8.19&bitm_compression=16.0.0&bitm_eshopapp=16.5.0&bitm_form=17.0.1&bitm_sender=18.0.0&bitm_vote=17.5.1&bitm_seo=18.0.0&bitm_subscribe=17.5.0&bitm_clouds=17.0.2&bitm_b24connector=17.5.0&bitm_conversion=17.5.0&bitm_migrato=0.8.8&bitm_search=17.5.1&bitm_security=17.0.2&bitm_report=18.0.4&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2018-07-05 17:15:04 -  - exec CUpdateClient::GetHTTPPage
+2018-07-05 17:15:04 -  - TIME LoadModulesUpdates(request) 0.175 sec
+2018-07-05 17:15:04 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:04 - S - STEP
+2018-07-05 17:15:04 - LMU01 - LoadModulesUpdates-Step
+2018-07-05 17:15:04 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:04 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:04 -  - loadFile
+2018-07-05 17:15:04 - U - RETURN
+2018-07-05 17:15:04 -  - exec CUpdateClient::UnGzipArchive
+2018-07-05 17:15:05 -  - TIME UnGzipArchive 0.005 sec
+2018-07-05 17:15:05 - CSURUS1 - Run updater '/bitrix/updates/update_m1530800104/iblock/updater17.6.4.php'
+2018-07-05 17:15:05 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1530800104/iblock/updater17.6.4.php': CopyFiles(install/components, components)
+2018-07-05 17:15:05 -  - TIME UpdateStepModules 0.021 sec
+2018-07-05 17:15:05 - UPD_SUCCESS - Updated: iblock (17.6.4)<br><li>Исправлен ряд ошибок.
+2018-07-05 17:15:05 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:05 -  - exec CUpdateClient::CollectRequestData
+2018-07-05 17:15:05 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=18.0.0&VERSION=18.0.1&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix-git-test.vs04.usebraind.ru&CHHB=bitrix-git-test.vs04.usebraind.ru&CSAB=127.0.0.1&SUID=eabec828621a4fed615ef96b536ffd41&CANGZIP=Y&CLIENT_PHPVER=7.0.28&stable=Y&NGINX=Y&rerere=Y&bitm_main=18.0.1&bitm_rest=18.0.0&bitm_messageservice=18.0.0&bitm_socialservices=17.5.4&bitm_catalog=17.6.2&bitm_scale=17.5.0&bitm_currency=17.5.4&bitm_mobileapp=17.5.1&bitm_blog=17.6.1&bitm_landing=18.3.0&bitm_forum=17.5.5&bitm_pull=17.5.4&bitm_abtest=17.5.0&bitm_ui=17.6.0&bitm_fileman=18.0.0&bitm_translate=16.0.0&bitm_iblock=17.6.4&bitm_bitrixcloud=17.5.0&bitm_photogallery=17.0.2&bitm_perfmon=17.0.1&bitm_highloadblock=17.5.0&bitm_storeassist=16.0.1&bitm_sale=17.8.19&bitm_compression=16.0.0&bitm_eshopapp=16.5.0&bitm_form=17.0.1&bitm_sender=18.0.0&bitm_vote=17.5.1&bitm_seo=18.0.0&bitm_subscribe=17.5.0&bitm_clouds=17.0.2&bitm_b24connector=17.5.0&bitm_conversion=17.5.0&bitm_migrato=0.8.8&bitm_search=17.5.1&bitm_security=17.0.2&bitm_report=18.0.4&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2018-07-05 17:15:05 -  - exec CUpdateClient::GetHTTPPage
+2018-07-05 17:15:05 -  - TIME LoadModulesUpdates(request) 0.196 sec
+2018-07-05 17:15:05 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:05 - S - STEP
+2018-07-05 17:15:05 - LMU01 - LoadModulesUpdates-Step
+2018-07-05 17:15:05 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:05 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:05 -  - loadFile
+2018-07-05 17:15:05 - U - RETURN
+2018-07-05 17:15:05 -  - exec CUpdateClient::UnGzipArchive
+2018-07-05 17:15:05 -  - TIME UnGzipArchive 0.01 sec
+2018-07-05 17:15:05 - CSURUS1 - Run updater '/bitrix/updates/update_m1530800105/search/updater17.6.0.php'
+2018-07-05 17:15:05 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1530800105/search/updater17.6.0.php': CopyFiles(install/components, components)
+2018-07-05 17:15:05 -  - TIME UpdateStepModules 0.038 sec
+2018-07-05 17:15:05 - UPD_SUCCESS - Updated: search (17.6.0)<br><li>Улучшено определение раскладки поискового запроса. <li>В компонент bitrix:search.title добавлен шаблон bootstrap_v4. 
+2018-07-05 17:15:06 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:06 -  - exec CUpdateClient::CollectRequestData
+2018-07-05 17:15:06 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=18.0.0&VERSION=18.0.1&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix-git-test.vs04.usebraind.ru&CHHB=bitrix-git-test.vs04.usebraind.ru&CSAB=127.0.0.1&SUID=eabec828621a4fed615ef96b536ffd41&CANGZIP=Y&CLIENT_PHPVER=7.0.28&stable=Y&NGINX=Y&rerere=Y&bitm_main=18.0.1&bitm_rest=18.0.0&bitm_messageservice=18.0.0&bitm_socialservices=17.5.4&bitm_catalog=17.6.2&bitm_scale=17.5.0&bitm_currency=17.5.4&bitm_mobileapp=17.5.1&bitm_blog=17.6.1&bitm_landing=18.3.0&bitm_forum=17.5.5&bitm_pull=17.5.4&bitm_abtest=17.5.0&bitm_ui=17.6.0&bitm_fileman=18.0.0&bitm_translate=16.0.0&bitm_iblock=17.6.4&bitm_bitrixcloud=17.5.0&bitm_photogallery=17.0.2&bitm_perfmon=17.0.1&bitm_highloadblock=17.5.0&bitm_storeassist=16.0.1&bitm_sale=17.8.19&bitm_compression=16.0.0&bitm_eshopapp=16.5.0&bitm_form=17.0.1&bitm_sender=18.0.0&bitm_vote=17.5.1&bitm_seo=18.0.0&bitm_subscribe=17.5.0&bitm_clouds=17.0.2&bitm_b24connector=17.5.0&bitm_conversion=17.5.0&bitm_migrato=0.8.8&bitm_search=17.6.0&bitm_security=17.0.2&bitm_report=18.0.4&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2018-07-05 17:15:06 -  - exec CUpdateClient::GetHTTPPage
+2018-07-05 17:15:06 -  - TIME LoadModulesUpdates(request) 0.172 sec
+2018-07-05 17:15:06 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:06 - S - STEP
+2018-07-05 17:15:06 - LMU01 - LoadModulesUpdates-Step
+2018-07-05 17:15:06 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:06 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:06 -  - loadFile
+2018-07-05 17:15:06 - U - RETURN
+2018-07-05 17:15:06 -  - exec CUpdateClient::UnGzipArchive
+2018-07-05 17:15:06 -  - TIME UnGzipArchive 0.029 sec
+2018-07-05 17:15:06 - CSURUS1 - Run updater '/bitrix/updates/update_m1530800106/catalog/updater17.6.3/index.php'
+2018-07-05 17:15:06 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1530800106/catalog/updater17.6.3/index.php': CopyFiles(install/components, components)
+2018-07-05 17:15:06 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1530800106/catalog/updater17.6.3/index.php': CopyFiles(install/js, js)
+2018-07-05 17:15:06 -  - TIME UpdateStepModules 0.083 sec
+2018-07-05 17:15:06 - UPD_SUCCESS - Updated: catalog (17.6.3)<br><li>Исправлены ошибки подписки на отсутствующие товары на многосайтовых системах и при использовании протокола https. <li>Если включен режим использования скидок магазина, точность расчетов цен в публичных компонентах определяется настройками модуля \"Интернет-магазин\" (sale). <li>Исправлены ошибки получения данных для условий правил корзины. <li>Исправлена ошибка сохранения сессионного фильтра на административных страницах документов складского учета. <li>Исправлены ошибки csv-импорта. <li>Улучшена производительность пересчета доступного количества товаров при включенном складском учете в момент активации/деактивации складов. <li>Улучшена производительности выгрузки в Яндекс.Маркет.
+2018-07-05 17:15:06 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:06 -  - exec CUpdateClient::CollectRequestData
+2018-07-05 17:15:06 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=18.0.0&VERSION=18.0.1&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix-git-test.vs04.usebraind.ru&CHHB=bitrix-git-test.vs04.usebraind.ru&CSAB=127.0.0.1&SUID=eabec828621a4fed615ef96b536ffd41&CANGZIP=Y&CLIENT_PHPVER=7.0.28&stable=Y&NGINX=Y&rerere=Y&bitm_main=18.0.1&bitm_rest=18.0.0&bitm_messageservice=18.0.0&bitm_socialservices=17.5.4&bitm_catalog=17.6.3&bitm_scale=17.5.0&bitm_currency=17.5.4&bitm_mobileapp=17.5.1&bitm_blog=17.6.1&bitm_landing=18.3.0&bitm_forum=17.5.5&bitm_pull=17.5.4&bitm_abtest=17.5.0&bitm_ui=17.6.0&bitm_fileman=18.0.0&bitm_translate=16.0.0&bitm_iblock=17.6.4&bitm_bitrixcloud=17.5.0&bitm_photogallery=17.0.2&bitm_perfmon=17.0.1&bitm_highloadblock=17.5.0&bitm_storeassist=16.0.1&bitm_sale=17.8.19&bitm_compression=16.0.0&bitm_eshopapp=16.5.0&bitm_form=17.0.1&bitm_sender=18.0.0&bitm_vote=17.5.1&bitm_seo=18.0.0&bitm_subscribe=17.5.0&bitm_clouds=17.0.2&bitm_b24connector=17.5.0&bitm_conversion=17.5.0&bitm_migrato=0.8.8&bitm_search=17.6.0&bitm_security=17.0.2&bitm_report=18.0.4&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2018-07-05 17:15:06 -  - exec CUpdateClient::GetHTTPPage
+2018-07-05 17:15:07 -  - TIME LoadModulesUpdates(request) 0.189 sec
+2018-07-05 17:15:07 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:07 - S - STEP
+2018-07-05 17:15:07 - LMU01 - LoadModulesUpdates-Step
+2018-07-05 17:15:07 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:07 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:07 -  - loadFile
+2018-07-05 17:15:07 - U - RETURN
+2018-07-05 17:15:07 -  - exec CUpdateClient::UnGzipArchive
+2018-07-05 17:15:08 -  - TIME UnGzipArchive 0.232 sec
+2018-07-05 17:15:08 - CSURUS1 - Run updater '/bitrix/updates/update_m1530800107/sale/updater17.8.20.php'
+2018-07-05 17:15:08 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1530800107/sale/updater17.8.20.php': CopyFiles(install/components, components)
+2018-07-05 17:15:08 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1530800107/sale/updater17.8.20.php': CopyFiles(install/themes, themes)
+2018-07-05 17:15:09 -  - TIME UpdateStepModules 0.772 sec
+2018-07-05 17:15:09 - UPD_SUCCESS - Updated: sale (17.8.20)<br><li>Исправлена ошибка, при которой администратор не мог отправить транспортную заявку. <li>В компонентах магазина исправлена ошибка показа цены и величины скидки с учетом округлений. <li>Улучшение работы платежных систем. <li>Исправлена работа фильтра по стоимости заказа на странице оплат. <li>Исправлена ошибка, из-за которой в печатные формы заказа передавался некорректный номер заказа. <li>Исправлена ошибка, приводящая к очистке отложенных товаров. <li>Исправлена ошибка, при которой при изменении стоимости basketItem на событии onSaleOrderBeforeSaved, не обновлялась сумма оплат. 
+2018-07-05 17:15:09 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:09 -  - exec CUpdateClient::CollectRequestData
+2018-07-05 17:15:09 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=18.0.0&VERSION=18.0.1&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix-git-test.vs04.usebraind.ru&CHHB=bitrix-git-test.vs04.usebraind.ru&CSAB=127.0.0.1&SUID=eabec828621a4fed615ef96b536ffd41&CANGZIP=Y&CLIENT_PHPVER=7.0.28&stable=Y&NGINX=Y&rerere=Y&bitm_main=18.0.1&bitm_rest=18.0.0&bitm_messageservice=18.0.0&bitm_socialservices=17.5.4&bitm_catalog=17.6.3&bitm_scale=17.5.0&bitm_currency=17.5.4&bitm_mobileapp=17.5.1&bitm_blog=17.6.1&bitm_landing=18.3.0&bitm_forum=17.5.5&bitm_pull=17.5.4&bitm_abtest=17.5.0&bitm_ui=17.6.0&bitm_fileman=18.0.0&bitm_translate=16.0.0&bitm_iblock=17.6.4&bitm_bitrixcloud=17.5.0&bitm_photogallery=17.0.2&bitm_perfmon=17.0.1&bitm_highloadblock=17.5.0&bitm_storeassist=16.0.1&bitm_sale=17.8.20&bitm_compression=16.0.0&bitm_eshopapp=16.5.0&bitm_form=17.0.1&bitm_sender=18.0.0&bitm_vote=17.5.1&bitm_seo=18.0.0&bitm_subscribe=17.5.0&bitm_clouds=17.0.2&bitm_b24connector=17.5.0&bitm_conversion=17.5.0&bitm_migrato=0.8.8&bitm_search=17.6.0&bitm_security=17.0.2&bitm_report=18.0.4&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2018-07-05 17:15:09 -  - exec CUpdateClient::GetHTTPPage
+2018-07-05 17:15:09 -  - TIME LoadModulesUpdates(request) 0.178 sec
+2018-07-05 17:15:09 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:09 - S - STEP
+2018-07-05 17:15:09 - LMU01 - LoadModulesUpdates-Step
+2018-07-05 17:15:09 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:09 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:09 -  - loadFile
+2018-07-05 17:15:09 - U - RETURN
+2018-07-05 17:15:09 -  - exec CUpdateClient::UnGzipArchive
+2018-07-05 17:15:09 -  - TIME UnGzipArchive 0.001 sec
+2018-07-05 17:15:09 - CSURUS1 - Run updater '/bitrix/updates/update_m1530800109/sale/updater17.8.21/index.php'
+2018-07-05 17:15:09 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1530800109/sale/updater17.8.21/index.php': CopyFiles(install/components, components)
+2018-07-05 17:15:09 -  - TIME UpdateStepModules 0.006 sec
+2018-07-05 17:15:09 - UPD_SUCCESS - Updated: sale (17.8.21)<br><li>Исправлена ошибка, возникавшая при вызове компонента sale.basket.basket.line после компонента sale.order.ajax. <li>Исправлены ошибки совместимости с устаревшими шаблонами компонента sale.basket.basket.line. <li>Разработчикам: настоятельно рекомендуем включить параметр \"Не показывать на страницах корзины и оформления заказа\" компонента sale.basket.basket.line для улучшения производительности.
+2018-07-05 17:15:09 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:09 -  - exec CUpdateClient::CollectRequestData
+2018-07-05 17:15:09 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=18.0.0&VERSION=18.0.1&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix-git-test.vs04.usebraind.ru&CHHB=bitrix-git-test.vs04.usebraind.ru&CSAB=127.0.0.1&SUID=eabec828621a4fed615ef96b536ffd41&CANGZIP=Y&CLIENT_PHPVER=7.0.28&stable=Y&NGINX=Y&rerere=Y&bitm_main=18.0.1&bitm_rest=18.0.0&bitm_messageservice=18.0.0&bitm_socialservices=17.5.4&bitm_catalog=17.6.3&bitm_scale=17.5.0&bitm_currency=17.5.4&bitm_mobileapp=17.5.1&bitm_blog=17.6.1&bitm_landing=18.3.0&bitm_forum=17.5.5&bitm_pull=17.5.4&bitm_abtest=17.5.0&bitm_ui=17.6.0&bitm_fileman=18.0.0&bitm_translate=16.0.0&bitm_iblock=17.6.4&bitm_bitrixcloud=17.5.0&bitm_photogallery=17.0.2&bitm_perfmon=17.0.1&bitm_highloadblock=17.5.0&bitm_storeassist=16.0.1&bitm_sale=17.8.21&bitm_compression=16.0.0&bitm_eshopapp=16.5.0&bitm_form=17.0.1&bitm_sender=18.0.0&bitm_vote=17.5.1&bitm_seo=18.0.0&bitm_subscribe=17.5.0&bitm_clouds=17.0.2&bitm_b24connector=17.5.0&bitm_conversion=17.5.0&bitm_migrato=0.8.8&bitm_search=17.6.0&bitm_security=17.0.2&bitm_report=18.0.4&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2018-07-05 17:15:09 -  - exec CUpdateClient::GetHTTPPage
+2018-07-05 17:15:10 -  - TIME LoadModulesUpdates(request) 0.186 sec
+2018-07-05 17:15:10 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:10 - S - STEP
+2018-07-05 17:15:10 - LMU01 - LoadModulesUpdates-Step
+2018-07-05 17:15:10 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:10 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:10 -  - loadFile
+2018-07-05 17:15:10 - U - RETURN
+2018-07-05 17:15:10 -  - exec CUpdateClient::UnGzipArchive
+2018-07-05 17:15:10 -  - TIME UnGzipArchive 0.007 sec
+2018-07-05 17:15:10 - CSURUS1 - Run updater '/bitrix/updates/update_m1530800110/currency/updater18.0.0/index.php'
+2018-07-05 17:15:10 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1530800110/currency/updater18.0.0/index.php': CopyFiles(install/js, js)
+2018-07-05 17:15:10 -  - TIME UpdateStepModules 0.068 sec
+2018-07-05 17:15:10 - UPD_SUCCESS - Updated: currency (18.0.0)<br><li>Исправлены ошибки свойств типа \"Деньги\". <li>Исправлены незначительные ошибки валидации языкозависимых настроек валют.
+2018-07-05 17:15:10 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:10 -  - exec CUpdateClient::CollectRequestData
+2018-07-05 17:15:10 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=18.0.0&VERSION=18.0.1&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix-git-test.vs04.usebraind.ru&CHHB=bitrix-git-test.vs04.usebraind.ru&CSAB=127.0.0.1&SUID=eabec828621a4fed615ef96b536ffd41&CANGZIP=Y&CLIENT_PHPVER=7.0.28&stable=Y&NGINX=Y&rerere=Y&bitm_main=18.0.1&bitm_rest=18.0.0&bitm_messageservice=18.0.0&bitm_socialservices=17.5.4&bitm_catalog=17.6.3&bitm_scale=17.5.0&bitm_currency=18.0.0&bitm_mobileapp=17.5.1&bitm_blog=17.6.1&bitm_landing=18.3.0&bitm_forum=17.5.5&bitm_pull=17.5.4&bitm_abtest=17.5.0&bitm_ui=17.6.0&bitm_fileman=18.0.0&bitm_translate=16.0.0&bitm_iblock=17.6.4&bitm_bitrixcloud=17.5.0&bitm_photogallery=17.0.2&bitm_perfmon=17.0.1&bitm_highloadblock=17.5.0&bitm_storeassist=16.0.1&bitm_sale=17.8.21&bitm_compression=16.0.0&bitm_eshopapp=16.5.0&bitm_form=17.0.1&bitm_sender=18.0.0&bitm_vote=17.5.1&bitm_seo=18.0.0&bitm_subscribe=17.5.0&bitm_clouds=17.0.2&bitm_b24connector=17.5.0&bitm_conversion=17.5.0&bitm_migrato=0.8.8&bitm_search=17.6.0&bitm_security=17.0.2&bitm_report=18.0.4&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2018-07-05 17:15:10 -  - exec CUpdateClient::GetHTTPPage
+2018-07-05 17:15:10 -  - TIME LoadModulesUpdates(request) 0.176 sec
+2018-07-05 17:15:10 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:10 - S - STEP
+2018-07-05 17:15:10 - LMU01 - LoadModulesUpdates-Step
+2018-07-05 17:15:11 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:11 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:11 -  - loadFile
+2018-07-05 17:15:11 - U - RETURN
+2018-07-05 17:15:11 -  - exec CUpdateClient::UnGzipArchive
+2018-07-05 17:15:11 -  - TIME UnGzipArchive 0.005 sec
+2018-07-05 17:15:11 -  - TIME UpdateStepModules 0.01 sec
+2018-07-05 17:15:11 - UPD_SUCCESS - Updated: socialservices (17.5.5)<br><li>Исправлена ошибка отображения авторизации через Google и Google+ при отсутствии настроек. <li>OAuth-авторизация через Яндекс теперь поддерживает работу с несколькими redirect_uri в разных доменах в настройках приложения. <li>Исправлены ошибки перевода на украинский язык. 
+2018-07-05 17:15:11 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:11 -  - exec CUpdateClient::CollectRequestData
+2018-07-05 17:15:11 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=18.0.0&VERSION=18.0.1&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix-git-test.vs04.usebraind.ru&CHHB=bitrix-git-test.vs04.usebraind.ru&CSAB=127.0.0.1&SUID=eabec828621a4fed615ef96b536ffd41&CANGZIP=Y&CLIENT_PHPVER=7.0.28&stable=Y&NGINX=Y&rerere=Y&bitm_main=18.0.1&bitm_rest=18.0.0&bitm_messageservice=18.0.0&bitm_socialservices=17.5.5&bitm_catalog=17.6.3&bitm_scale=17.5.0&bitm_currency=18.0.0&bitm_mobileapp=17.5.1&bitm_blog=17.6.1&bitm_landing=18.3.0&bitm_forum=17.5.5&bitm_pull=17.5.4&bitm_abtest=17.5.0&bitm_ui=17.6.0&bitm_fileman=18.0.0&bitm_translate=16.0.0&bitm_iblock=17.6.4&bitm_bitrixcloud=17.5.0&bitm_photogallery=17.0.2&bitm_perfmon=17.0.1&bitm_highloadblock=17.5.0&bitm_storeassist=16.0.1&bitm_sale=17.8.21&bitm_compression=16.0.0&bitm_eshopapp=16.5.0&bitm_form=17.0.1&bitm_sender=18.0.0&bitm_vote=17.5.1&bitm_seo=18.0.0&bitm_subscribe=17.5.0&bitm_clouds=17.0.2&bitm_b24connector=17.5.0&bitm_conversion=17.5.0&bitm_migrato=0.8.8&bitm_search=17.6.0&bitm_security=17.0.2&bitm_report=18.0.4&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2018-07-05 17:15:11 -  - exec CUpdateClient::GetHTTPPage
+2018-07-05 17:15:11 -  - TIME LoadModulesUpdates(request) 0.192 sec
+2018-07-05 17:15:11 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:11 - S - STEP
+2018-07-05 17:15:11 - LMU01 - LoadModulesUpdates-Step
+2018-07-05 17:15:11 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:11 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:11 -  - loadFile
+2018-07-05 17:15:12 - U - RETURN
+2018-07-05 17:15:12 -  - exec CUpdateClient::UnGzipArchive
+2018-07-05 17:15:12 -  - TIME UnGzipArchive 0.002 sec
+2018-07-05 17:15:12 - CSURUS1 - Run updater '/bitrix/updates/update_m1530800112/report/updater18.0.5.php'
+2018-07-05 17:15:12 -  - TIME UpdateStepModules 0.239 sec
+2018-07-05 17:15:12 - UPD_SUCCESS - Updated: report (18.0.5)<br><li>Исправлена ошибка, возникающая во время установки модуля.
+2018-07-05 17:15:12 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:12 -  - exec CUpdateClient::CollectRequestData
+2018-07-05 17:15:12 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=18.0.0&VERSION=18.0.1&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix-git-test.vs04.usebraind.ru&CHHB=bitrix-git-test.vs04.usebraind.ru&CSAB=127.0.0.1&SUID=eabec828621a4fed615ef96b536ffd41&CANGZIP=Y&CLIENT_PHPVER=7.0.28&stable=Y&NGINX=Y&rerere=Y&bitm_main=18.0.1&bitm_rest=18.0.0&bitm_messageservice=18.0.0&bitm_socialservices=17.5.5&bitm_catalog=17.6.3&bitm_scale=17.5.0&bitm_currency=18.0.0&bitm_mobileapp=17.5.1&bitm_blog=17.6.1&bitm_landing=18.3.0&bitm_forum=17.5.5&bitm_pull=17.5.4&bitm_abtest=17.5.0&bitm_ui=17.6.0&bitm_fileman=18.0.0&bitm_translate=16.0.0&bitm_iblock=17.6.4&bitm_bitrixcloud=17.5.0&bitm_photogallery=17.0.2&bitm_perfmon=17.0.1&bitm_highloadblock=17.5.0&bitm_storeassist=16.0.1&bitm_sale=17.8.21&bitm_compression=16.0.0&bitm_eshopapp=16.5.0&bitm_form=17.0.1&bitm_sender=18.0.0&bitm_vote=17.5.1&bitm_seo=18.0.0&bitm_subscribe=17.5.0&bitm_clouds=17.0.2&bitm_b24connector=17.5.0&bitm_conversion=17.5.0&bitm_migrato=0.8.8&bitm_search=17.6.0&bitm_security=17.0.2&bitm_report=18.0.5&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2018-07-05 17:15:12 -  - exec CUpdateClient::GetHTTPPage
+2018-07-05 17:15:12 -  - TIME LoadModulesUpdates(request) 0.173 sec
+2018-07-05 17:15:12 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:12 - S - STEP
+2018-07-05 17:15:12 - LMU01 - LoadModulesUpdates-Step
+2018-07-05 17:15:12 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:12 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:12 -  - loadFile
+2018-07-05 17:15:13 - U - RETURN
+2018-07-05 17:15:13 -  - exec CUpdateClient::UnGzipArchive
+2018-07-05 17:15:13 -  - TIME UnGzipArchive 0.003 sec
+2018-07-05 17:15:13 -  - TIME UpdateStepModules 0.039 sec
+2018-07-05 17:15:13 - UPD_SUCCESS - Updated: pull (17.5.5)<br><li>Незначительные исправления и улучшения.
+2018-07-05 17:15:13 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:13 -  - exec CUpdateClient::CollectRequestData
+2018-07-05 17:15:13 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=18.0.0&VERSION=18.0.1&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix-git-test.vs04.usebraind.ru&CHHB=bitrix-git-test.vs04.usebraind.ru&CSAB=127.0.0.1&SUID=eabec828621a4fed615ef96b536ffd41&CANGZIP=Y&CLIENT_PHPVER=7.0.28&stable=Y&NGINX=Y&rerere=Y&bitm_main=18.0.1&bitm_rest=18.0.0&bitm_messageservice=18.0.0&bitm_socialservices=17.5.5&bitm_catalog=17.6.3&bitm_scale=17.5.0&bitm_currency=18.0.0&bitm_mobileapp=17.5.1&bitm_blog=17.6.1&bitm_landing=18.3.0&bitm_forum=17.5.5&bitm_pull=17.5.5&bitm_abtest=17.5.0&bitm_ui=17.6.0&bitm_fileman=18.0.0&bitm_translate=16.0.0&bitm_iblock=17.6.4&bitm_bitrixcloud=17.5.0&bitm_photogallery=17.0.2&bitm_perfmon=17.0.1&bitm_highloadblock=17.5.0&bitm_storeassist=16.0.1&bitm_sale=17.8.21&bitm_compression=16.0.0&bitm_eshopapp=16.5.0&bitm_form=17.0.1&bitm_sender=18.0.0&bitm_vote=17.5.1&bitm_seo=18.0.0&bitm_subscribe=17.5.0&bitm_clouds=17.0.2&bitm_b24connector=17.5.0&bitm_conversion=17.5.0&bitm_migrato=0.8.8&bitm_search=17.6.0&bitm_security=17.0.2&bitm_report=18.0.5&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2018-07-05 17:15:13 -  - exec CUpdateClient::GetHTTPPage
+2018-07-05 17:15:13 -  - TIME LoadModulesUpdates(request) 0.194 sec
+2018-07-05 17:15:13 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:13 - S - STEP
+2018-07-05 17:15:13 - LMU01 - LoadModulesUpdates-Step
+2018-07-05 17:15:13 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:13 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:13 -  - loadFile
+2018-07-05 17:15:13 - U - RETURN
+2018-07-05 17:15:13 -  - exec CUpdateClient::UnGzipArchive
+2018-07-05 17:15:13 -  - TIME UnGzipArchive 0.003 sec
+2018-07-05 17:15:13 - CSURUS1 - Run updater '/bitrix/updates/update_m1530800113/mobileapp/updater18.0.0.php'
+2018-07-05 17:15:13 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1530800113/mobileapp/updater18.0.0.php': CopyFiles(install/js, js)
+2018-07-05 17:15:13 -  - TIME UpdateStepModules 0.048 sec
+2018-07-05 17:15:13 - UPD_SUCCESS - Updated: mobileapp (18.0.0)<br><li>Удалены неподдерживаемые параметры в конструкторе мобильных приложений. <li>Исправлена ошибка работы LongTap-события в iOS при включенном режиме экономии энергии. <li>Добавлены украинские переводы. 
+2018-07-05 17:15:14 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:14 -  - exec CUpdateClient::CollectRequestData
+2018-07-05 17:15:14 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=18.0.0&VERSION=18.0.1&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix-git-test.vs04.usebraind.ru&CHHB=bitrix-git-test.vs04.usebraind.ru&CSAB=127.0.0.1&SUID=eabec828621a4fed615ef96b536ffd41&CANGZIP=Y&CLIENT_PHPVER=7.0.28&stable=Y&NGINX=Y&rerere=Y&bitm_main=18.0.1&bitm_rest=18.0.0&bitm_messageservice=18.0.0&bitm_socialservices=17.5.5&bitm_catalog=17.6.3&bitm_scale=17.5.0&bitm_currency=18.0.0&bitm_mobileapp=18.0.0&bitm_blog=17.6.1&bitm_landing=18.3.0&bitm_forum=17.5.5&bitm_pull=17.5.5&bitm_abtest=17.5.0&bitm_ui=17.6.0&bitm_fileman=18.0.0&bitm_translate=16.0.0&bitm_iblock=17.6.4&bitm_bitrixcloud=17.5.0&bitm_photogallery=17.0.2&bitm_perfmon=17.0.1&bitm_highloadblock=17.5.0&bitm_storeassist=16.0.1&bitm_sale=17.8.21&bitm_compression=16.0.0&bitm_eshopapp=16.5.0&bitm_form=17.0.1&bitm_sender=18.0.0&bitm_vote=17.5.1&bitm_seo=18.0.0&bitm_subscribe=17.5.0&bitm_clouds=17.0.2&bitm_b24connector=17.5.0&bitm_conversion=17.5.0&bitm_migrato=0.8.8&bitm_search=17.6.0&bitm_security=17.0.2&bitm_report=18.0.5&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2018-07-05 17:15:14 -  - exec CUpdateClient::GetHTTPPage
+2018-07-05 17:15:14 -  - TIME LoadModulesUpdates(request) 0.176 sec
+2018-07-05 17:15:14 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:14 - S - STEP
+2018-07-05 17:15:14 - LMU01 - LoadModulesUpdates-Step
+2018-07-05 17:15:14 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:14 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:14 -  - loadFile
+2018-07-05 17:15:14 - U - RETURN
+2018-07-05 17:15:14 -  - exec CUpdateClient::UnGzipArchive
+2018-07-05 17:15:14 -  - TIME UnGzipArchive 0.003 sec
+2018-07-05 17:15:14 -  - TIME UpdateStepModules 0.006 sec
+2018-07-05 17:15:14 - UPD_SUCCESS - Updated: highloadblock (17.5.1)<br><li>Доработано свойство типа \"Справочник\" для улучшения производительности компонент \"Умный фильтр\" (catalog.smart.filter).
+2018-07-05 17:15:15 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:15 -  - exec CUpdateClient::CollectRequestData
+2018-07-05 17:15:15 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=18.0.0&VERSION=18.0.1&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix-git-test.vs04.usebraind.ru&CHHB=bitrix-git-test.vs04.usebraind.ru&CSAB=127.0.0.1&SUID=eabec828621a4fed615ef96b536ffd41&CANGZIP=Y&CLIENT_PHPVER=7.0.28&stable=Y&NGINX=Y&rerere=Y&bitm_main=18.0.1&bitm_rest=18.0.0&bitm_messageservice=18.0.0&bitm_socialservices=17.5.5&bitm_catalog=17.6.3&bitm_scale=17.5.0&bitm_currency=18.0.0&bitm_mobileapp=18.0.0&bitm_blog=17.6.1&bitm_landing=18.3.0&bitm_forum=17.5.5&bitm_pull=17.5.5&bitm_abtest=17.5.0&bitm_ui=17.6.0&bitm_fileman=18.0.0&bitm_translate=16.0.0&bitm_iblock=17.6.4&bitm_bitrixcloud=17.5.0&bitm_photogallery=17.0.2&bitm_perfmon=17.0.1&bitm_highloadblock=17.5.1&bitm_storeassist=16.0.1&bitm_sale=17.8.21&bitm_compression=16.0.0&bitm_eshopapp=16.5.0&bitm_form=17.0.1&bitm_sender=18.0.0&bitm_vote=17.5.1&bitm_seo=18.0.0&bitm_subscribe=17.5.0&bitm_clouds=17.0.2&bitm_b24connector=17.5.0&bitm_conversion=17.5.0&bitm_migrato=0.8.8&bitm_search=17.6.0&bitm_security=17.0.2&bitm_report=18.0.5&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2018-07-05 17:15:15 -  - exec CUpdateClient::GetHTTPPage
+2018-07-05 17:15:15 -  - TIME LoadModulesUpdates(request) 0.186 sec
+2018-07-05 17:15:15 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:15 - S - STEP
+2018-07-05 17:15:15 - LMU01 - LoadModulesUpdates-Step
+2018-07-05 17:15:16 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:16 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:16 -  - loadFile
+2018-07-05 17:15:18 - U - RETURN
+2018-07-05 17:15:18 -  - exec CUpdateClient::UnGzipArchive
+2018-07-05 17:15:18 -  - TIME UnGzipArchive 0.083 sec
+2018-07-05 17:15:18 - CSURUS1 - Run updater '/bitrix/updates/update_m1530800118/iblock/updater17.6.5/index.php'
+2018-07-05 17:15:18 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1530800118/iblock/updater17.6.5/index.php': CopyFiles(install/components, components)
+2018-07-05 17:15:18 -  - TIME UpdateStepModules 0.278 sec
+2018-07-05 17:15:18 - UPD_SUCCESS - Updated: iblock (17.6.5)<br><li>Исправлена ошибка потери привязки к разделам при обновлении элемента инфоблока. <li>Исправлена ошибка генерации ссылки на файлы в публичных компонентах. <li>Исправлены ошибки CSV-импорта. <li>Исправлены ошибки базовых шаблонов компонентов catalog, catalog.compare.list. <li>В CML-обмене добавлена поддержка отложенного пересчета доступности и фасетного индекса товаров с торговыми предложениями. <li>Незначительно улучшена производительность CML-обмена. <li>Улучшена производительность компонента catalog.smart.filter. <li>Разработчикам! Добавлено событие OnIBlockElementSetPropertyValuesEx для метода CIBlockElement::SetPropertyValuesEx. Событие вызывается до внесения изменений в базу после валидации входящих данных. 
+2018-07-05 17:15:18 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:18 -  - exec CUpdateClient::CollectRequestData
+2018-07-05 17:15:18 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=18.0.0&VERSION=18.0.1&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix-git-test.vs04.usebraind.ru&CHHB=bitrix-git-test.vs04.usebraind.ru&CSAB=127.0.0.1&SUID=eabec828621a4fed615ef96b536ffd41&CANGZIP=Y&CLIENT_PHPVER=7.0.28&stable=Y&NGINX=Y&rerere=Y&bitm_main=18.0.1&bitm_rest=18.0.0&bitm_messageservice=18.0.0&bitm_socialservices=17.5.5&bitm_catalog=17.6.3&bitm_scale=17.5.0&bitm_currency=18.0.0&bitm_mobileapp=18.0.0&bitm_blog=17.6.1&bitm_landing=18.3.0&bitm_forum=17.5.5&bitm_pull=17.5.5&bitm_abtest=17.5.0&bitm_ui=17.6.0&bitm_fileman=18.0.0&bitm_translate=16.0.0&bitm_iblock=17.6.5&bitm_bitrixcloud=17.5.0&bitm_photogallery=17.0.2&bitm_perfmon=17.0.1&bitm_highloadblock=17.5.1&bitm_storeassist=16.0.1&bitm_sale=17.8.21&bitm_compression=16.0.0&bitm_eshopapp=16.5.0&bitm_form=17.0.1&bitm_sender=18.0.0&bitm_vote=17.5.1&bitm_seo=18.0.0&bitm_subscribe=17.5.0&bitm_clouds=17.0.2&bitm_b24connector=17.5.0&bitm_conversion=17.5.0&bitm_migrato=0.8.8&bitm_search=17.6.0&bitm_security=17.0.2&bitm_report=18.0.5&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2018-07-05 17:15:18 -  - exec CUpdateClient::GetHTTPPage
+2018-07-05 17:15:18 -  - TIME LoadModulesUpdates(request) 0.168 sec
+2018-07-05 17:15:18 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:18 - S - STEP
+2018-07-05 17:15:18 - LMU01 - LoadModulesUpdates-Step
+2018-07-05 17:15:19 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:19 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:19 -  - loadFile
+2018-07-05 17:15:19 - U - RETURN
+2018-07-05 17:15:19 -  - exec CUpdateClient::UnGzipArchive
+2018-07-05 17:15:19 -  - TIME UnGzipArchive 0.002 sec
+2018-07-05 17:15:19 - CSURUS1 - Run updater '/bitrix/updates/update_m1530800119/iblock/updater17.6.6/index.php'
+2018-07-05 17:15:19 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1530800119/iblock/updater17.6.6/index.php': CopyFiles(install/components, components)
+2018-07-05 17:15:19 -  - TIME UpdateStepModules 0.008 sec
+2018-07-05 17:15:19 - UPD_SUCCESS - Updated: iblock (17.6.6)<br><li>Исправлены ошибки компонента catalog.smart.filter при работе со свойствами типа \"Привязка к элементам\".
+2018-07-05 17:15:19 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:19 -  - exec CUpdateClient::CollectRequestData
+2018-07-05 17:15:19 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=18.0.0&VERSION=18.0.1&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix-git-test.vs04.usebraind.ru&CHHB=bitrix-git-test.vs04.usebraind.ru&CSAB=127.0.0.1&SUID=eabec828621a4fed615ef96b536ffd41&CANGZIP=Y&CLIENT_PHPVER=7.0.28&stable=Y&NGINX=Y&rerere=Y&bitm_main=18.0.1&bitm_rest=18.0.0&bitm_messageservice=18.0.0&bitm_socialservices=17.5.5&bitm_catalog=17.6.3&bitm_scale=17.5.0&bitm_currency=18.0.0&bitm_mobileapp=18.0.0&bitm_blog=17.6.1&bitm_landing=18.3.0&bitm_forum=17.5.5&bitm_pull=17.5.5&bitm_abtest=17.5.0&bitm_ui=17.6.0&bitm_fileman=18.0.0&bitm_translate=16.0.0&bitm_iblock=17.6.6&bitm_bitrixcloud=17.5.0&bitm_photogallery=17.0.2&bitm_perfmon=17.0.1&bitm_highloadblock=17.5.1&bitm_storeassist=16.0.1&bitm_sale=17.8.21&bitm_compression=16.0.0&bitm_eshopapp=16.5.0&bitm_form=17.0.1&bitm_sender=18.0.0&bitm_vote=17.5.1&bitm_seo=18.0.0&bitm_subscribe=17.5.0&bitm_clouds=17.0.2&bitm_b24connector=17.5.0&bitm_conversion=17.5.0&bitm_migrato=0.8.8&bitm_search=17.6.0&bitm_security=17.0.2&bitm_report=18.0.5&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2018-07-05 17:15:19 -  - exec CUpdateClient::GetHTTPPage
+2018-07-05 17:15:19 -  - TIME LoadModulesUpdates(request) 0.163 sec
+2018-07-05 17:15:19 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:19 - S - STEP
+2018-07-05 17:15:19 - LMU01 - LoadModulesUpdates-Step
+2018-07-05 17:15:19 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:19 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:19 -  - loadFile
+2018-07-05 17:15:19 - U - RETURN
+2018-07-05 17:15:19 -  - exec CUpdateClient::UnGzipArchive
+2018-07-05 17:15:19 -  - TIME UnGzipArchive 0.001 sec
+2018-07-05 17:15:19 -  - TIME UpdateStepModules 0.025 sec
+2018-07-05 17:15:19 - UPD_SUCCESS - Updated: iblock (17.6.7)<br><li>Исправлена ошибка показа свойства типа \"Привязка к элементам в виде списка\" в компоненте catalog.smart.filter.
+2018-07-05 17:15:19 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:19 -  - exec CUpdateClient::CollectRequestData
+2018-07-05 17:15:19 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=18.0.0&VERSION=18.0.1&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix-git-test.vs04.usebraind.ru&CHHB=bitrix-git-test.vs04.usebraind.ru&CSAB=127.0.0.1&SUID=eabec828621a4fed615ef96b536ffd41&CANGZIP=Y&CLIENT_PHPVER=7.0.28&stable=Y&NGINX=Y&rerere=Y&bitm_main=18.0.1&bitm_rest=18.0.0&bitm_messageservice=18.0.0&bitm_socialservices=17.5.5&bitm_catalog=17.6.3&bitm_scale=17.5.0&bitm_currency=18.0.0&bitm_mobileapp=18.0.0&bitm_blog=17.6.1&bitm_landing=18.3.0&bitm_forum=17.5.5&bitm_pull=17.5.5&bitm_abtest=17.5.0&bitm_ui=17.6.0&bitm_fileman=18.0.0&bitm_translate=16.0.0&bitm_iblock=17.6.7&bitm_bitrixcloud=17.5.0&bitm_photogallery=17.0.2&bitm_perfmon=17.0.1&bitm_highloadblock=17.5.1&bitm_storeassist=16.0.1&bitm_sale=17.8.21&bitm_compression=16.0.0&bitm_eshopapp=16.5.0&bitm_form=17.0.1&bitm_sender=18.0.0&bitm_vote=17.5.1&bitm_seo=18.0.0&bitm_subscribe=17.5.0&bitm_clouds=17.0.2&bitm_b24connector=17.5.0&bitm_conversion=17.5.0&bitm_migrato=0.8.8&bitm_search=17.6.0&bitm_security=17.0.2&bitm_report=18.0.5&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2018-07-05 17:15:19 -  - exec CUpdateClient::GetHTTPPage
+2018-07-05 17:15:20 -  - TIME LoadModulesUpdates(request) 0.178 sec
+2018-07-05 17:15:20 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:20 - S - STEP
+2018-07-05 17:15:20 - LMU01 - LoadModulesUpdates-Step
+2018-07-05 17:15:20 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:20 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:20 -  - loadFile
+2018-07-05 17:15:20 - U - RETURN
+2018-07-05 17:15:20 -  - exec CUpdateClient::UnGzipArchive
+2018-07-05 17:15:20 -  - TIME UnGzipArchive 0.095 sec
+2018-07-05 17:15:20 - CSURUS1 - Run updater '/bitrix/updates/update_m1530800120/sender/updater18.0.1.php'
+2018-07-05 17:15:20 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1530800120/sender/updater18.0.1.php': CopyFiles(install/components, components)
+2018-07-05 17:15:20 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1530800120/sender/updater18.0.1.php': CopyFiles(install/js, js)
+2018-07-05 17:15:26 -  - TIME UpdateStepModules 5.522 sec
+2018-07-05 17:15:26 - UPD_SUCCESS - Updated: sender (18.0.1)<br><li>Готовые триггерные рассылки переведены на новые шаблоны. <li>При создании письма триггерной рассылки теперь выводятся также и шаблоны из готовых триггерных рассылок. <li>В блочном редакторе возвращено отображение компонентов (динамических блоков).
+2018-07-05 17:15:26 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:26 -  - exec CUpdateClient::CollectRequestData
+2018-07-05 17:15:26 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=18.0.0&VERSION=18.0.1&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix-git-test.vs04.usebraind.ru&CHHB=bitrix-git-test.vs04.usebraind.ru&CSAB=127.0.0.1&SUID=eabec828621a4fed615ef96b536ffd41&CANGZIP=Y&CLIENT_PHPVER=7.0.28&stable=Y&NGINX=Y&rerere=Y&bitm_main=18.0.1&bitm_rest=18.0.0&bitm_messageservice=18.0.0&bitm_socialservices=17.5.5&bitm_catalog=17.6.3&bitm_scale=17.5.0&bitm_currency=18.0.0&bitm_mobileapp=18.0.0&bitm_blog=17.6.1&bitm_landing=18.3.0&bitm_forum=17.5.5&bitm_pull=17.5.5&bitm_abtest=17.5.0&bitm_ui=17.6.0&bitm_fileman=18.0.0&bitm_translate=16.0.0&bitm_iblock=17.6.7&bitm_bitrixcloud=17.5.0&bitm_photogallery=17.0.2&bitm_perfmon=17.0.1&bitm_highloadblock=17.5.1&bitm_storeassist=16.0.1&bitm_sale=17.8.21&bitm_compression=16.0.0&bitm_eshopapp=16.5.0&bitm_form=17.0.1&bitm_sender=18.0.1&bitm_vote=17.5.1&bitm_seo=18.0.0&bitm_subscribe=17.5.0&bitm_clouds=17.0.2&bitm_b24connector=17.5.0&bitm_conversion=17.5.0&bitm_migrato=0.8.8&bitm_search=17.6.0&bitm_security=17.0.2&bitm_report=18.0.5&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2018-07-05 17:15:26 -  - exec CUpdateClient::GetHTTPPage
+2018-07-05 17:15:26 -  - TIME LoadModulesUpdates(request) 0.193 sec
+2018-07-05 17:15:26 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:26 - S - STEP
+2018-07-05 17:15:26 - LMU01 - LoadModulesUpdates-Step
+2018-07-05 17:15:26 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:26 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:26 -  - loadFile
+2018-07-05 17:15:26 - U - RETURN
+2018-07-05 17:15:26 -  - exec CUpdateClient::UnGzipArchive
+2018-07-05 17:15:26 -  - TIME UnGzipArchive 0.002 sec
+2018-07-05 17:15:26 - CSURUS1 - Run updater '/bitrix/updates/update_m1530800126/rest/updater18.0.1.php'
+2018-07-05 17:15:27 -  - TIME UpdateStepModules 0.206 sec
+2018-07-05 17:15:27 - UPD_SUCCESS - Updated: rest (18.0.1)<br><li>Исправление ошибки копирования публичных файлов одним из предыдущих обновлений. 
+2018-07-05 17:15:27 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:27 -  - exec CUpdateClient::CollectRequestData
+2018-07-05 17:15:27 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=18.0.0&VERSION=18.0.1&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix-git-test.vs04.usebraind.ru&CHHB=bitrix-git-test.vs04.usebraind.ru&CSAB=127.0.0.1&SUID=eabec828621a4fed615ef96b536ffd41&CANGZIP=Y&CLIENT_PHPVER=7.0.28&stable=Y&NGINX=Y&rerere=Y&bitm_main=18.0.1&bitm_rest=18.0.1&bitm_messageservice=18.0.0&bitm_socialservices=17.5.5&bitm_catalog=17.6.3&bitm_scale=17.5.0&bitm_currency=18.0.0&bitm_mobileapp=18.0.0&bitm_blog=17.6.1&bitm_landing=18.3.0&bitm_forum=17.5.5&bitm_pull=17.5.5&bitm_abtest=17.5.0&bitm_ui=17.6.0&bitm_fileman=18.0.0&bitm_translate=16.0.0&bitm_iblock=17.6.7&bitm_bitrixcloud=17.5.0&bitm_photogallery=17.0.2&bitm_perfmon=17.0.1&bitm_highloadblock=17.5.1&bitm_storeassist=16.0.1&bitm_sale=17.8.21&bitm_compression=16.0.0&bitm_eshopapp=16.5.0&bitm_form=17.0.1&bitm_sender=18.0.1&bitm_vote=17.5.1&bitm_seo=18.0.0&bitm_subscribe=17.5.0&bitm_clouds=17.0.2&bitm_b24connector=17.5.0&bitm_conversion=17.5.0&bitm_migrato=0.8.8&bitm_search=17.6.0&bitm_security=17.0.2&bitm_report=18.0.5&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2018-07-05 17:15:27 -  - exec CUpdateClient::GetHTTPPage
+2018-07-05 17:15:27 -  - TIME LoadModulesUpdates(request) 0.191 sec
+2018-07-05 17:15:27 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:27 - S - STEP
+2018-07-05 17:15:27 - LMU01 - LoadModulesUpdates-Step
+2018-07-05 17:15:28 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:28 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:28 -  - loadFile
+2018-07-05 17:15:28 - U - RETURN
+2018-07-05 17:15:28 -  - exec CUpdateClient::UnGzipArchive
+2018-07-05 17:15:28 -  - TIME UnGzipArchive 0.003 sec
+2018-07-05 17:15:28 - CSURUS1 - Run updater '/bitrix/updates/update_m1530800128/b24connector/updater18.0.0.php'
+2018-07-05 17:15:28 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1530800128/b24connector/updater18.0.0.php': CopyFiles(install/components, components)
+2018-07-05 17:15:28 -  - TIME UpdateStepModules 0.03 sec
+2018-07-05 17:15:28 - UPD_SUCCESS - Updated: b24connector (18.0.0)<br><li>Поддержка Сайтов24 в административной части.
+2018-07-05 17:15:28 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:28 -  - exec CUpdateClient::CollectRequestData
+2018-07-05 17:15:28 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=18.0.0&VERSION=18.0.1&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix-git-test.vs04.usebraind.ru&CHHB=bitrix-git-test.vs04.usebraind.ru&CSAB=127.0.0.1&SUID=eabec828621a4fed615ef96b536ffd41&CANGZIP=Y&CLIENT_PHPVER=7.0.28&stable=Y&NGINX=Y&rerere=Y&bitm_main=18.0.1&bitm_rest=18.0.1&bitm_messageservice=18.0.0&bitm_socialservices=17.5.5&bitm_catalog=17.6.3&bitm_scale=17.5.0&bitm_currency=18.0.0&bitm_mobileapp=18.0.0&bitm_blog=17.6.1&bitm_landing=18.3.0&bitm_forum=17.5.5&bitm_pull=17.5.5&bitm_abtest=17.5.0&bitm_ui=17.6.0&bitm_fileman=18.0.0&bitm_translate=16.0.0&bitm_iblock=17.6.7&bitm_bitrixcloud=17.5.0&bitm_photogallery=17.0.2&bitm_perfmon=17.0.1&bitm_highloadblock=17.5.1&bitm_storeassist=16.0.1&bitm_sale=17.8.21&bitm_compression=16.0.0&bitm_eshopapp=16.5.0&bitm_form=17.0.1&bitm_sender=18.0.1&bitm_vote=17.5.1&bitm_seo=18.0.0&bitm_subscribe=17.5.0&bitm_clouds=17.0.2&bitm_b24connector=18.0.0&bitm_conversion=17.5.0&bitm_migrato=0.8.8&bitm_search=17.6.0&bitm_security=17.0.2&bitm_report=18.0.5&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2018-07-05 17:15:28 -  - exec CUpdateClient::GetHTTPPage
+2018-07-05 17:15:29 -  - TIME LoadModulesUpdates(request) 0.183 sec
+2018-07-05 17:15:29 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:29 - S - STEP
+2018-07-05 17:15:29 - LMU01 - LoadModulesUpdates-Step
+2018-07-05 17:15:30 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:30 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:30 -  - loadFile
+2018-07-05 17:15:30 - U - RETURN
+2018-07-05 17:15:30 -  - exec CUpdateClient::UnGzipArchive
+2018-07-05 17:15:30 -  - TIME UnGzipArchive 0.012 sec
+2018-07-05 17:15:30 - CSURUS1 - Run updater '/bitrix/updates/update_m1530800130/ui/updater17.6.1.php'
+2018-07-05 17:15:30 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1530800130/ui/updater17.6.1.php': CopyFiles(install/js, js)
+2018-07-05 17:15:30 -  - TIME UpdateStepModules 0.035 sec
+2018-07-05 17:15:30 - UPD_SUCCESS - Updated: ui (17.6.1)<br><li>Доработана библиотека ui.tilegrid. 
+2018-07-05 17:15:30 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:30 -  - exec CUpdateClient::CollectRequestData
+2018-07-05 17:15:30 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=18.0.0&VERSION=18.0.1&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix-git-test.vs04.usebraind.ru&CHHB=bitrix-git-test.vs04.usebraind.ru&CSAB=127.0.0.1&SUID=eabec828621a4fed615ef96b536ffd41&CANGZIP=Y&CLIENT_PHPVER=7.0.28&stable=Y&NGINX=Y&rerere=Y&bitm_main=18.0.1&bitm_rest=18.0.1&bitm_messageservice=18.0.0&bitm_socialservices=17.5.5&bitm_catalog=17.6.3&bitm_scale=17.5.0&bitm_currency=18.0.0&bitm_mobileapp=18.0.0&bitm_blog=17.6.1&bitm_landing=18.3.0&bitm_forum=17.5.5&bitm_pull=17.5.5&bitm_abtest=17.5.0&bitm_ui=17.6.1&bitm_fileman=18.0.0&bitm_translate=16.0.0&bitm_iblock=17.6.7&bitm_bitrixcloud=17.5.0&bitm_photogallery=17.0.2&bitm_perfmon=17.0.1&bitm_highloadblock=17.5.1&bitm_storeassist=16.0.1&bitm_sale=17.8.21&bitm_compression=16.0.0&bitm_eshopapp=16.5.0&bitm_form=17.0.1&bitm_sender=18.0.1&bitm_vote=17.5.1&bitm_seo=18.0.0&bitm_subscribe=17.5.0&bitm_clouds=17.0.2&bitm_b24connector=18.0.0&bitm_conversion=17.5.0&bitm_migrato=0.8.8&bitm_search=17.6.0&bitm_security=17.0.2&bitm_report=18.0.5&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2018-07-05 17:15:30 -  - exec CUpdateClient::GetHTTPPage
+2018-07-05 17:15:30 -  - TIME LoadModulesUpdates(request) 0.184 sec
+2018-07-05 17:15:30 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:30 - S - STEP
+2018-07-05 17:15:30 - LMU01 - LoadModulesUpdates-Step
+2018-07-05 17:15:30 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:30 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:30 -  - loadFile
+2018-07-05 17:15:30 - U - RETURN
+2018-07-05 17:15:30 -  - exec CUpdateClient::UnGzipArchive
+2018-07-05 17:15:30 -  - TIME UnGzipArchive 0.003 sec
+2018-07-05 17:15:30 - CSURUS1 - Run updater '/bitrix/updates/update_m1530800130/ui/updater17.6.2.php'
+2018-07-05 17:15:30 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1530800130/ui/updater17.6.2.php': CopyFiles(install/js, js)
+2018-07-05 17:15:30 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1530800130/ui/updater17.6.2.php': CopyFiles(install/js, js)
+2018-07-05 17:15:30 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1530800130/ui/updater17.6.2.php': CopyFiles(install/js, js)
+2018-07-05 17:15:30 -  - TIME UpdateStepModules 0.019 sec
+2018-07-05 17:15:30 - UPD_SUCCESS - Updated: ui (17.6.2)<br><li>Исправлено несколько ошибок в модуле UI. 
+2018-07-05 17:15:31 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:31 -  - exec CUpdateClient::CollectRequestData
+2018-07-05 17:15:31 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=18.0.0&VERSION=18.0.1&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix-git-test.vs04.usebraind.ru&CHHB=bitrix-git-test.vs04.usebraind.ru&CSAB=127.0.0.1&SUID=eabec828621a4fed615ef96b536ffd41&CANGZIP=Y&CLIENT_PHPVER=7.0.28&stable=Y&NGINX=Y&rerere=Y&bitm_main=18.0.1&bitm_rest=18.0.1&bitm_messageservice=18.0.0&bitm_socialservices=17.5.5&bitm_catalog=17.6.3&bitm_scale=17.5.0&bitm_currency=18.0.0&bitm_mobileapp=18.0.0&bitm_blog=17.6.1&bitm_landing=18.3.0&bitm_forum=17.5.5&bitm_pull=17.5.5&bitm_abtest=17.5.0&bitm_ui=17.6.2&bitm_fileman=18.0.0&bitm_translate=16.0.0&bitm_iblock=17.6.7&bitm_bitrixcloud=17.5.0&bitm_photogallery=17.0.2&bitm_perfmon=17.0.1&bitm_highloadblock=17.5.1&bitm_storeassist=16.0.1&bitm_sale=17.8.21&bitm_compression=16.0.0&bitm_eshopapp=16.5.0&bitm_form=17.0.1&bitm_sender=18.0.1&bitm_vote=17.5.1&bitm_seo=18.0.0&bitm_subscribe=17.5.0&bitm_clouds=17.0.2&bitm_b24connector=18.0.0&bitm_conversion=17.5.0&bitm_migrato=0.8.8&bitm_search=17.6.0&bitm_security=17.0.2&bitm_report=18.0.5&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2018-07-05 17:15:31 -  - exec CUpdateClient::GetHTTPPage
+2018-07-05 17:15:31 -  - TIME LoadModulesUpdates(request) 0.199 sec
+2018-07-05 17:15:31 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:31 - S - STEP
+2018-07-05 17:15:31 - LMU01 - LoadModulesUpdates-Step
+2018-07-05 17:15:31 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:31 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:31 -  - loadFile
+2018-07-05 17:15:32 - U - RETURN
+2018-07-05 17:15:32 -  - exec CUpdateClient::UnGzipArchive
+2018-07-05 17:15:32 -  - TIME UnGzipArchive 0.462 sec
+2018-07-05 17:15:32 - CSURUS1 - Run updater '/bitrix/updates/update_m1530800132/landing/updater18.3.1.php'
+2018-07-05 17:15:32 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1530800132/landing/updater18.3.1.php': CopyFiles(install/blocks, blocks)
+2018-07-05 17:15:32 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1530800132/landing/updater18.3.1.php': CopyFiles(install/components, components)
+2018-07-05 17:15:32 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1530800132/landing/updater18.3.1.php': CopyFiles(install/images, images)
+2018-07-05 17:15:32 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1530800132/landing/updater18.3.1.php': CopyFiles(install/js, js)
+2018-07-05 17:15:32 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1530800132/landing/updater18.3.1.php': CopyFiles(install/templates, templates)
+2018-07-05 17:15:33 -  - TIME UpdateStepModules 1.007 sec
+2018-07-05 17:15:33 - UPD_SUCCESS - Updated: landing (18.3.1)<br><li>Сайты24 добавлены в коробочный Битрикс24. <li>В списке страниц сайта добавлена кнопка настройки. <li>В коробочной версии введена поддержка прав на уровне модуля. <li>В настройках каталога выводятся теперь только торговые каталоги. <li>Поддержка PHP 5.6 в публикации. <li>Доработка под монитор качества. <li>Исправление ошибки, когда ядро модуля не смотрело на настройку с названием шаблона. <li>Исправление ошибок JS в предпросмотре шаблона. <li>Исправление ошибки тега strike в редакторе текста в Firefox. <li>Поправлены другие незначительные ошибки. 
+2018-07-05 17:15:34 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:34 -  - exec CUpdateClient::CollectRequestData
+2018-07-05 17:15:34 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=18.0.0&VERSION=18.0.1&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix-git-test.vs04.usebraind.ru&CHHB=bitrix-git-test.vs04.usebraind.ru&CSAB=127.0.0.1&SUID=eabec828621a4fed615ef96b536ffd41&CANGZIP=Y&CLIENT_PHPVER=7.0.28&stable=Y&NGINX=Y&rerere=Y&bitm_main=18.0.1&bitm_rest=18.0.1&bitm_messageservice=18.0.0&bitm_socialservices=17.5.5&bitm_catalog=17.6.3&bitm_scale=17.5.0&bitm_currency=18.0.0&bitm_mobileapp=18.0.0&bitm_blog=17.6.1&bitm_landing=18.3.1&bitm_forum=17.5.5&bitm_pull=17.5.5&bitm_abtest=17.5.0&bitm_ui=17.6.2&bitm_fileman=18.0.0&bitm_translate=16.0.0&bitm_iblock=17.6.7&bitm_bitrixcloud=17.5.0&bitm_photogallery=17.0.2&bitm_perfmon=17.0.1&bitm_highloadblock=17.5.1&bitm_storeassist=16.0.1&bitm_sale=17.8.21&bitm_compression=16.0.0&bitm_eshopapp=16.5.0&bitm_form=17.0.1&bitm_sender=18.0.1&bitm_vote=17.5.1&bitm_seo=18.0.0&bitm_subscribe=17.5.0&bitm_clouds=17.0.2&bitm_b24connector=18.0.0&bitm_conversion=17.5.0&bitm_migrato=0.8.8&bitm_search=17.6.0&bitm_security=17.0.2&bitm_report=18.0.5&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2018-07-05 17:15:34 -  - exec CUpdateClient::GetHTTPPage
+2018-07-05 17:15:34 -  - TIME LoadModulesUpdates(request) 0.173 sec
+2018-07-05 17:15:34 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:34 - S - STEP
+2018-07-05 17:15:34 - LMU01 - LoadModulesUpdates-Step
+2018-07-05 17:15:34 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:34 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:34 -  - loadFile
+2018-07-05 17:15:34 - U - RETURN
+2018-07-05 17:15:34 -  - exec CUpdateClient::UnGzipArchive
+2018-07-05 17:15:34 -  - TIME UnGzipArchive 0.001 sec
+2018-07-05 17:15:34 - CSURUS1 - Run updater '/bitrix/updates/update_m1530800134/landing/updater18.3.2.php'
+2018-07-05 17:15:34 -  - TIME UpdateStepModules 0.018 sec
+2018-07-05 17:15:34 - UPD_SUCCESS - Updated: landing (18.3.2)<br><li>Очистка кеша при установке модуля на коробочных версиях Битрикс24.
+2018-07-05 17:15:34 -  - exec CUpdateClient::LoadModulesUpdates
+2018-07-05 17:15:34 -  - exec CUpdateClient::CollectRequestData
+2018-07-05 17:15:34 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=18.0.0&VERSION=18.0.1&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix-git-test.vs04.usebraind.ru&CHHB=bitrix-git-test.vs04.usebraind.ru&CSAB=127.0.0.1&SUID=eabec828621a4fed615ef96b536ffd41&CANGZIP=Y&CLIENT_PHPVER=7.0.28&stable=Y&NGINX=Y&rerere=Y&bitm_main=18.0.1&bitm_rest=18.0.1&bitm_messageservice=18.0.0&bitm_socialservices=17.5.5&bitm_catalog=17.6.3&bitm_scale=17.5.0&bitm_currency=18.0.0&bitm_mobileapp=18.0.0&bitm_blog=17.6.1&bitm_landing=18.3.2&bitm_forum=17.5.5&bitm_pull=17.5.5&bitm_abtest=17.5.0&bitm_ui=17.6.2&bitm_fileman=18.0.0&bitm_translate=16.0.0&bitm_iblock=17.6.7&bitm_bitrixcloud=17.5.0&bitm_photogallery=17.0.2&bitm_perfmon=17.0.1&bitm_highloadblock=17.5.1&bitm_storeassist=16.0.1&bitm_sale=17.8.21&bitm_compression=16.0.0&bitm_eshopapp=16.5.0&bitm_form=17.0.1&bitm_sender=18.0.1&bitm_vote=17.5.1&bitm_seo=18.0.0&bitm_subscribe=17.5.0&bitm_clouds=17.0.2&bitm_b24connector=18.0.0&bitm_conversion=17.5.0&bitm_migrato=0.8.8&bitm_search=17.6.0&bitm_security=17.0.2&bitm_report=18.0.5&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2018-07-05 17:15:34 -  - exec CUpdateClient::GetHTTPPage
+2018-07-05 17:15:34 -  - TIME LoadModulesUpdates(request) 0.176 sec
+2018-07-05 17:15:34 -  - exec CUpdateClient::ParseServerData
+2018-07-05 17:15:34 - STEP - Finish - NOUPDATES
+2018-07-05 17:15:34 - STEP - Finish - NOUPDATES

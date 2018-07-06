@@ -1,55 +1,31 @@
 <?php
-return array (
-'pull_s1' => 'BEGIN GENERATED PUSH SETTINGS. DON\'T DELETE COMMENT!!!!',
-'pull' => Array(
-    'value' =>  array(
-        'path_to_listener' => 'http://#DOMAIN#/bitrix/sub/',
-        'path_to_listener_secure' => 'https://#DOMAIN#/bitrix/sub/',
-        'path_to_modern_listener' => 'http://#DOMAIN#/bitrix/sub/',
-        'path_to_modern_listener_secure' => 'https://#DOMAIN#/bitrix/sub/',
-        'path_to_mobile_listener' => 'http://#DOMAIN#:8893/bitrix/sub/',
-        'path_to_mobile_listener_secure' => 'https://#DOMAIN#:8894/bitrix/sub/',
-        'path_to_websocket' => 'ws://#DOMAIN#/bitrix/subws/',
-        'path_to_websocket_secure' => 'wss://#DOMAIN#/bitrix/subws/',
-        'path_to_publish' => 'http://vs600.xpage.ru:8895/bitrix/pub/',
-        'nginx_version' => '3',
-        'nginx_command_per_hit' => '100',
-        'nginx' => 'Y',
-        'nginx_headers' => 'N',
-        'push' => 'Y',
-        'websocket' => 'Y',
-        'signature_key' => '9F7a16PAp7sKJFnI5TpiPoOQrFFtgxALI1P5Ijl2uF5tmYDynJCFSlU5aYkusGBHKfclfyOsaEP3mTNZIrOcIUOUZLRvzKDwjg8pttLxT8vjnr3RbEKCuj89adbJj7pK',
-        'signature_algo' => 'sha1',
-        'guest' => 'N',
-    ),
-),
-'pull_e1' => 'END GENERATED PUSH SETTINGS. DON\'T DELETE COMMENT!!!!',
-  'utf_mode' =>
+return array (
+  'utf_mode' => 
   array (
     'value' => true,
     'readonly' => true,
   ),
-  'cache_flags' =>
+  'cache_flags' => 
   array (
-    'value' =>
+    'value' => 
     array (
-      'config_options' => 3600,
-      'site_domain' => 3600,
+      'config_options' => 3600.0,
+      'site_domain' => 3600.0,
     ),
     'readonly' => false,
   ),
-  'cookies' =>
+  'cookies' => 
   array (
-    'value' =>
+    'value' => 
     array (
       'secure' => false,
       'http_only' => true,
     ),
     'readonly' => false,
   ),
-  'exception_handling' =>
+  'exception_handling' => 
   array (
-    'value' =>
+    'value' => 
     array (
       'debug' => false,
       'handled_errors_types' => 4437,
@@ -57,30 +33,32 @@ return array (
       'ignore_silence' => false,
       'assertion_throws_exception' => true,
       'assertion_error_type' => 256,
-      'log' => array (
-          'settings' =>
-          array (
-            'file' => '/var/log/php/exceptions.log',
-            'log_size' => 1000000,
-        ),
-      ),
+      'log' => NULL,
     ),
     'readonly' => false,
   ),
-  'connections' =>
+  'connections' => 
   array (
-    'value' =>
+    'value' => 
     array (
-      'default' =>
+      'default' => 
       array (
         'className' => '\\Bitrix\\Main\\DB\\MysqliConnection',
         'host' => 'localhost',
-        'database' => 'sitemanager',
-        'login'    => 'bitrix0',
-        'password' => 'lda0MLrdA6Bouekoxg5O',
-        'options' => 2,
+        'database' => 'bitrix_git_test',
+        'login' => '3884032067',
+        'password' => '7EEHlr3dSgx',
+        'options' => 2.0,
       ),
     ),
     'readonly' => true,
-  )
+  ),
+  'crypto' => 
+  array (
+    'value' => 
+    array (
+      'crypto_key' => '0711ca646601567b627ac1f10ec74185',
+    ),
+    'readonly' => true,
+  ),
 );
